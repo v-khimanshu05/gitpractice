@@ -5,6 +5,7 @@ int a[20],b[20],c[40];
 int m,n,p,val,i,j,key,pos,temp;
 
 /*Function Prototype*/
+//Function declaring
 void create();
 void display();
 void insert();
