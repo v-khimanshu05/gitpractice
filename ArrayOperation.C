@@ -11,7 +11,7 @@ void insert();
 void del();
 void search();
 
-
+//Main starting
 int main()
 {
 	int choice;
