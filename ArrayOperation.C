@@ -11,7 +11,7 @@ void insert();
 void del();
 void search();
 
-int main()
+void main()
 {
 	int choice;
 	clrscr();
