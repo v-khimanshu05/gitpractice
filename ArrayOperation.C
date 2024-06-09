@@ -10,7 +10,6 @@ void display();
 void insert();
 void del();
 void search();
-
 int main()
 {
 	int choice;
