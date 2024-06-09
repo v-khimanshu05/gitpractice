@@ -10,7 +10,10 @@ void display();
 void insert();
 void del();
 void search();
+<<<<<<< HEAD
 int main()
+=======
+>>>>>>> 95abad65fdb5bad9342cb95ef5060e26ab45c0ac
 {
 	int choice;
 	clrscr();
